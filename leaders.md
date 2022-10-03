@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Wagner Morais ](mailto:wagner.morais@owasp.org)
+* [Marcio Corcovado](mailto:marcio.corcovado@owasp.org)
