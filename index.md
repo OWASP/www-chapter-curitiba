@@ -8,7 +8,8 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
+
+
 
 Seja Bem Vindo ao capítulo OWASP Curitiba
 A OWASP Curitiba é um dos capítulos do Brasil entre os mais de 200 capítulos que estarão ocorrendo em todo o mundo, o capítulo OWASP Curitiba vem com o objetivo de:
