@@ -11,7 +11,7 @@ meetup-group:
 <div style='color:red;'>
 
 Seja Bem Vindo ao capítulo OWASP Curitiba
-A OWASP Curitiba é um dos capítulos do Brasil, que ocorrerá de forma online em 2022. Entre os mais de 200 capítulos que estarão ocorrendo em todo o mundo, o capítulo OWASP Curitiba vem com o objetivo de:
+A OWASP Curitiba é um dos capítulos do Brasil entre os mais de 200 capítulos que estarão ocorrendo em todo o mundo, o capítulo OWASP Curitiba vem com o objetivo de:
 
 Compartilhar a missão da Instituição OWASP;
 
