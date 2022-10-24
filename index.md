@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Curitiba
 tags: example-tag
 level: 1
-meetup-group: 
+meetup-group: owasp-curitiba-chapter
 region: South America
 
 ---
@@ -41,4 +41,4 @@ Evento online
 
 Link de transmissão:https://www.youtube.com/
 
-Meetup:
+Meetup: https://www.meetup.com/owasp-curitiba-chapter/
