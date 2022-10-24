@@ -8,7 +8,7 @@ meetup-group: owasp-curitiba
 region: South America
 
 ---
-![Owasp-Curitiba (2)](https://user-images.githubusercontent.com/16158526/117233453-897c0380-adf9-11eb-9532-be5cc93f5085.png)
+![Owasp-Curitiba (2)](https://github.com/OWASP/www-chapter-curitiba/blob/main/assets/images/final.png)
 
 
 ## Seja Bem Vindo ao capítulo OWASP Curitiba
