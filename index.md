@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Curitiba
 tags: example-tag
 level: 1
-meetup-group: owasp-curitiba
+meetup-group: 
 region: South America
 
 ---
