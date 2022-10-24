@@ -41,4 +41,4 @@ Evento online
 
 Link de transmissão:https://www.youtube.com/
 
-Meetup: https://www.meetup.com/pt-BR/owasp-curitiba
+Meetup:
