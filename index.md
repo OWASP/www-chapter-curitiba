@@ -8,6 +8,8 @@ meetup-group: owasp-curitiba-chapter
 region: South America
 
 ---
+
+
 ![Owasp-Curitiba (2)](https://github.com/OWASP/www-chapter-curitiba/blob/main/assets/images/final.png)
 
 
