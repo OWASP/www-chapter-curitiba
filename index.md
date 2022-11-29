@@ -10,7 +10,7 @@ region: South America
 ---
 
 
-![Owasp-Curitiba (2)](https://github.com/OWASP/www-chapter-curitiba/blob/main/assets/images/final.png)
+![Owasp-Curitiba (2)](https://github.com/OWASP/www-chapter-curitiba/blob/38268c2fa69f19d1887f42c35d644947d6b3a9ad/assets/images/final.png)
 
 
 ## Seja Bem Vindo ao capítulo OWASP Curitiba
