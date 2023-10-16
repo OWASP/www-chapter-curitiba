@@ -5,6 +5,7 @@ title: OWASP Curitiba
 tags: example-tag
 level: 1
 meetup-group: owasp-curitiba-chapter
+country: Brazil
 region: South America
 
 ---
