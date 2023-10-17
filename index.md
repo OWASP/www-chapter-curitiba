@@ -31,8 +31,17 @@ A OWASP Curitiba é um dos capítulos do Brasil, entre os mais de 200 capítulos
 
 ## Sobre a OWASP
 
-A Open Worldwide Application Security Project (OWASP) é uma organização mundial sem fins lucrativos focada em melhorar a segurança de software. Nossa missão é tornar a segurança de software visível, para que as pessoas e organizações possam tomar decisões informadas sobre os verdadeiros riscos à segurança de software. Todos são livres para participar da OWASP e todos os nossos materiais estão disponíveis sob uma licença de software livre e aberta.
+A OWASP, Open Web Application Security Project, é uma organização internacional sem fins lucrativos destinada à transmissão de conhecimento e conscientização sobre segurança de software, focada especialmente em aplicações web. A mesma desenvolve diferentes projetos, que vão desde ferramentas para teste até documentação, material de estudo e fóruns de discussão abertos à toda a comunidade de segurança.
 
+Segue uma lista de 6 (alguns de muitos) projetos da comunidade
+
+Top 10 2021 https://owasp.org/Top10/
+OWASP Mobile Security Project https://owasp.org/www-project-mobile-security/
+OWASP Internet of Things Project https://owasp.org/www-project-internet-of-things/
+OWASP Cloud Security Project https://owasp.org/www-project-cloud-security/
+OWASP API Security Project https://owasp.org/www-project-api-security/
+OWASP Broken Web Applications Project https://owasp.org/www-project-broken-web-applications/
+Conheça os outros projetos https://owasp.org/projects/
 
 ## I Meetup Owasp Curitiba de 2023
 
