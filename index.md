@@ -31,7 +31,7 @@ A OWASP Curitiba é um dos capítulos do Brasil, entre os mais de 200 capítulos
 
 ## Sobre a OWASP
 
-A OWASP, Open Web Application Security Project, é uma organização internacional sem fins lucrativos destinada à transmissão de conhecimento e conscientização sobre segurança de software, focada especialmente em aplicações web. A mesma desenvolve diferentes projetos, que vão desde ferramentas para teste até documentação, material de estudo e fóruns de discussão abertos à toda a comunidade de segurança.
+O Open Web Application Security Project (OWASP) é uma organização sem fins lucrativos que trabalha para melhorar a segurança do software. Todos os projetos, ferramentas, documentos, fóruns e capítulos são gratuitos e abertos a qualquer pessoa interessada em melhorar a segurança das aplicações.
 
 Segue uma lista de 6 (alguns de muitos) projetos da comunidade
 
