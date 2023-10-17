@@ -35,13 +35,19 @@ A OWASP, Open Web Application Security Project, é uma organização internacion
 
 Segue uma lista de 6 (alguns de muitos) projetos da comunidade
 
-Top 10 2021 https://owasp.org/Top10/
-OWASP Mobile Security Project https://owasp.org/www-project-mobile-security/
-OWASP Internet of Things Project https://owasp.org/www-project-internet-of-things/
-OWASP Cloud Security Project https://owasp.org/www-project-cloud-security/
-OWASP API Security Project https://owasp.org/www-project-api-security/
-OWASP Broken Web Applications Project https://owasp.org/www-project-broken-web-applications/
-Conheça os outros projetos https://owasp.org/projects/
+  - Top 10 2021 <https://owasp.org/Top10/>
+  - OWASP Mobile Security Project
+    <https://owasp.org/www-project-mobile-security/>
+  - OWASP Internet of Things Project
+    <https://owasp.org/www-project-internet-of-things/>
+  - OWASP Cloud Security Project
+    <https://owasp.org/www-project-cloud-security/>
+  - OWASP API Security Project
+    <https://owasp.org/www-project-api-security/>
+  - OWASP Broken Web Applications Project
+    <https://owasp.org/www-project-broken-web-applications/>
+  - Conheça os outros projetos
+    <https://owasp.org/projects/>
 
 ## I Meetup Owasp Curitiba de 2023
 
