@@ -55,6 +55,8 @@ Segue uma lista de 6 (alguns de muitos) projetos da comunidade
 
 O capítulo OWASP Curitiba convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso meetup virtual dia 03 de Maio de 2023 as 20 horas.
 
+Proximo evento dia 13/12. Link: https://www.meetup.com/owasp-curitiba-chapter/events/297614280/
+
 Evento online
 
 Link de transmissão:https://www.youtube.com/
