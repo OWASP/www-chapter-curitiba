@@ -1,0 +1,26 @@
+leaders:
+  - name: Wagner Morais
+    email: wagner.morais@owasp.org
+    github: wagrodrigo
+  - name: Marcio Corcovado
+    email: marcio.corcovado@owasp.org
+  - name: Izael Magalhaes
+    email: izael.magalhaes@owasp.org
+location:
+  country: Brazil
+  country_code: BR
+  region: Paraná
+  city: Curitiba
+  latitude: -25.4295963
+  longitude: -49.2712724
+meetup_group: owasp-curitiba-chapter
+name: OWASP Curitiba
+repositories:
+  - name: www-chapter-curitiba
+    url: https://github.com/OWASP/www-chapter-curitiba
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-curitiba
